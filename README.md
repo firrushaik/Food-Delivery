@@ -25,7 +25,7 @@ This is a simple *Food Delivery* website built using HTML and CSS. It features a
 
 1. *Clone the repository*:
     bash
-    git clone https://github.com/meenakshibathuluri/FoodDelivery.git
+    git clone https://github.com/firrushaik/Food-Delivery
     
 
 2. *Navigate into the project folder*:
